@@ -17,3 +17,9 @@
 - **BGM是将我最喜欢的一首永夜抄的BGM，用AI改编得到**
 
 ## 贴图文件来自东方千夜帖，侵权请联系，必删
+
+
+
+
+
+https://github.com/w-z-Xuan/Touhou-Aim-Lord/
